@@ -4,9 +4,9 @@
 
 ## Índice 📖
 
-* [1. Intro](https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#)🤓
-* [2. Qué construí](https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#)🤔
-* [3. Objetivo del proyecto](https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#)🥳
+* [1. Intro]([https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#](https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#1-intro))🤓
+* [2. Qué construí]([https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#](https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#2-que-contru%C3%AD))🤔
+* [3. Objetivo del proyecto]([https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#](https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#3-objetivo-del-proyecto))🥳
 
 ****
 
