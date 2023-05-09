@@ -4,9 +4,9 @@
 
 ## Índice 📖
 
-* [1. Intro](#)🤓
-* [2. Qué construí](#)🤔
-* [3. Objetivo del proyecto](#)🥳
+* [1. Intro](https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#)🤓
+* [2. Qué construí](https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#)🤔
+* [3. Objetivo del proyecto](https://github.com/ElizabethOchoa2000/google-clone/blob/main/README.md#)🥳
 
 ****
 
