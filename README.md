@@ -26,4 +26,5 @@ Contiene las siguientes secciónes:
 ## 3. Objetivo del proyecto.
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
-![image](https://user-images.githubusercontent.com/109162656/236977612-8cbd0ee8-0e03-4916-a6af-e5b41d0375d7.png)
+![image](![image](https://github.com/Elita-Ochoa/google-clone/assets/109162656/f17ce397-f91c-493c-a29b-69f20f2cb025)
+)
